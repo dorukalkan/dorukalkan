@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @dorukalkan
-- 📫 Reach me at dorukalkan@gmail.com
+- 📫 Reach me at dorukalkan1.0@gmail.com
 
 <!--
 **dorukalkan/dorukalkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
